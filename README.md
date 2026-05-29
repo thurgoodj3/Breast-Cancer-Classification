@@ -1,9 +1,4 @@
-# MSBD566 – Final Project  
 ### Breast Cancer Classification Using Random Forests, PCA, and Neural Networks
-
-**Author:** James Walton  
-**Course:** MSBD566 – Predictive Modeling and Analytics  
-**Date:** December 2025  
 
 ---
 
